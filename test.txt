@@ -1,2 +1,3 @@
 This is just a test
 Some more data
+This is a line in the file
